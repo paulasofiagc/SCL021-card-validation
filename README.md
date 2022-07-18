@@ -52,3 +52,6 @@ Esta página web da solución a un mercado con demanda especializada en donde lo
 ![](src/prototype/Reserva1.png)
 
 ![](src/prototype/Reserva2.png)
+
+## ¡Muchas gracias por visitarnos!
+### :yellow_heart: Paula Gallardo Carrasco- Card Validator Laboratoria 021 :yellow_heart:
