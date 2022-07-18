@@ -30,7 +30,7 @@ Esta página web da solución a un mercado con demanda especializada en donde lo
 ## Reservación
 ![](src/prototype/Prototipo2.png)
 
-# 6. Proyecto Final :exploding_head:
+## 6. Proyecto Final :exploding_head:
 ## Inicio de la página :star:		
 ![](src/prototype/InicioHGF.png)
 
