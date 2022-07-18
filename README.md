@@ -10,14 +10,17 @@
   3. Luego colocarás la foto de tu primer prototipo en papel.
   4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
   5. Imagen del prototipo final. -->
+  
+# Bienvenidxs a Hotel Gravity Falls :evergreen_tree:  - *Card Validator*
+Este es el ***primer hotel temático de una de las series más exitosas de la televisión*** :sparkles:, donde las familias chilenas podrán realizar diferentes reservaciones, conocer misterios y validar la tarjeta de crédito para gestionar su reservación
+## Índice
 * [1. Usuarixs y objetivos de este proyecto](#1-usuarixs-proyecto)
 * [2. Solución a los problemas de los usuarios:ok_person:](#2-solucion-usuarios)
 * [3. Primer prototipo ](#3-primer-prototipo)
 * [4. Feedback ](#4-feedback)
 * [4. Prototipo Final ](#5-prototipo-final)
 
-# Bienvenidxs a Hotel Gravity Falls :evergreen_tree:  - *Card Validator*
-Este es el ***primer hotel temático de una de las series más exitosas de la televisión*** :sparkles:, donde las familias chilenas podrán realizar diferentes reservaciones, conocer misterios y validar la tarjeta de crédito para gestionar su reservación
+***
 ### 1. Usuarixs y objetivos de este proyecto
 ¡Un hotel diseñado especialmente para entretener a la *familia*:family:, con especial importancia en los más pequeñitos del hogar! Esta ubicado en la ciudad de La Serena donde los huéspedes podrán disfrutar de un ambiente lleno de misterio con una exquisita mezcla de diversión y entretención para todo tipo de familias. 
 
