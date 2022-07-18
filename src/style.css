@@ -1,168 +1,182 @@
-*{
+* {
   margin: 0;
   padding: 0;
-  }
+}
 body {
-padding: 60px 0;
-background-image: url(https://i.redd.it/sb5u3ukyg1b81.gif); 
-background-attachment: fixed;
-margin: 0 auto;
-width: 600px;
-margin-bottom: 40px;
+  padding: 60px 0;
+  background-image: url(https://i.redd.it/sb5u3ukyg1b81.gif);
+  background-attachment: fixed;
+  margin: 0 auto;
+  width: 600px;
+  margin-bottom: 40px;
 }
 /* ---------- Estilo de página de Reserva ----------*/
-#container{
-font-family: 'Source Sans Pro', sans-serif;
-display: flex;
-background-color: rgba(255, 255, 255, 0.9);
-flex-direction: column;
-position: inherit;
-align-items: center;
-width: 550px;
-color: #19113a;
-padding: 20px;
-font-size: 20px;
+#container {
+  font-family: "Source Sans Pro", sans-serif;
+  display: flex;
+  background-color: rgba(255, 255, 255, 0.9);
+  flex-direction: column;
+  position: inherit;
+  align-items: center;
+  width: 550px;
+  color: #19113a;
+  padding: 20px;
+  font-size: 20px;
 }
-h1, h3{
+h1,
+h3 {
   text-align: center;
-  font-family:Tahoma;
+  font-family: Tahoma;
 }
-form{
+form {
   display: flex;
   flex-direction: column;
   width: 450px;
 }
 /* Botón de Validación */
 .validateCard {
-position: relative;
-background-color: #000000;
-border-radius: 10px;
-border-color: rgb(255, 255, 255);
-color: rgb(255, 255, 255);
-padding: 20px;}
-.validateCard:hover{
-background-color: rgb(0, 135, 224);
-cursor: pointer;}
-#Name, #numberCC, #expiration,#cvv {
-background-color: black;
-color: #ffffff;
-font-size: medium;}
+  position: relative;
+  background-color: #000000;
+  border-radius: 10px;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  padding: 20px;
+}
+.validateCard:hover {
+  background-color: rgb(0, 135, 224);
+  cursor: pointer;
+}
+#Name,
+#numberCC,
+#expiration,
+#cvv {
+  background-color: black;
+  color: #ffffff;
+  font-size: medium;
+}
 
 /* Estilo de navegador*/
-ul{
-list-style: none;
-margin: 0%;
-padding: 0px;
-overflow: visible;
-position: absolute;
-top: 0px;
-width: 100%;
-background-color: rgb(0, 0, 0);
-left: 0px;
-font-size: 25px; }
+ul {
+  list-style: none;
+  margin: 0%;
+  padding: 0px;
+  overflow: visible;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+  left: 0px;
+  font-size: 25px;
+}
 li {
-float: left;
-padding-bottom: 2px;}
-li a{
-display: block;
-color: rgb(255, 255, 255);
-text-align: center;
-font-family: 'Bebas Neue', cursive;
-padding: 14px;
-text-decoration: none; 
+  float: left;
+  padding-bottom: 2px;
+}
+li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-family: "Bebas Neue", cursive;
+  padding: 14px;
+  text-decoration: none;
 }
 li:hover {
-background-color:rgb(170, 170, 170)}
+  background-color: rgb(170, 170, 170);
+}
 .active {
-background-color: rgb(65, 219, 65);}
-.logo{
-float: right;}
+  background-color: rgb(65, 219, 65);
+}
+.logo {
+  float: right;
+}
 /* Pie de página*/
 footer {
-margin-top:1000px;
-font-family:'Source Sans Pro', sans-serif;
-background-color: rgba(0, 0, 0, 0.8);
-text-align: center;
-position: fixed;
-width: 100%;
-bottom: 0;
-display: inline-block;
-left: 0px;
-font-family:Monospace; 
-color: #ffffff;
-font-size: 10px;
+  margin-top: 1000px;
+  font-family: "Source Sans Pro", sans-serif;
+  background-color: rgba(0, 0, 0, 0.8);
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  display: inline-block;
+  left: 0px;
+  font-family: Monospace;
+  color: #ffffff;
+  font-size: 10px;
 }
-.box_footer img{
-width: 30px; 
-padding: 5px;
-line-height: 38px;}
-.box_footer h2{
-left: 10px;
-font-size: 15px;
-font-family: Arial, Helvetica, sans-serif;
+.box_footer img {
+  width: 30px;
+  padding: 5px;
+  line-height: 38px;
+}
+.box_footer h2 {
+  left: 10px;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 /* Inicio HTML*/
-.Inicio{
-color: #000000;
-left: -25%;
-position: relative;
-text-align: justify;
-margin-top: 50px;
-background-color: rgba(255, 255, 255, 0.9);
-display: flex;
-flex-direction: column;
-width: 400px;
-padding: 20px;
-font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-height: 380px;
-border-radius: 20px;
+.Inicio {
+  color: #000000;
+  left: -25%;
+  position: relative;
+  text-align: justify;
+  margin-top: 50px;
+  background-color: rgba(255, 255, 255, 0.9);
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  padding: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  height: 380px;
+  border-radius: 20px;
 }
-.Inicio h3{
-text-align: center;
-font-family: 'Lobster', cursive;
-font-size:30px;
+.Inicio h3 {
+  text-align: center;
+  font-family: "Lobster", cursive;
+  font-size: 30px;
 }
-label{
-display: block;
-margin: 20px 4;
-font-family: 'Trebuchet MS';
-width: 100px;
-padding: 2px;
+label {
+  display: block;
+  margin: 20px 4;
+  font-family: "Trebuchet MS";
+  width: 100px;
+  padding: 2px;
 }
-fieldset{
-border: 0;
-padding: 2rem 2rem;
-margin: 0.5 rem 0;
+fieldset {
+  border: 0;
+  padding: 2rem 2rem;
+  margin: 0.5 rem 0;
 }
-.inline{
-width: unset;
-background-color: #ffffff;
-border-color: rgb(182, 182, 182);
-min-height: 2em;
-width: 120px;
-font-size: 15px;
+.inline {
+  width: unset;
+  background-color: #ffffff;
+  border-color: rgb(182, 182, 182);
+  min-height: 2em;
+  width: 120px;
+  font-size: 15px;
 }
-select{
-background-color: #ffffff;
-border-color: rgb(182, 182, 182);
-min-height: 2.5em;
-cursor: pointer;
+select {
+  background-color: #ffffff;
+  border-color: rgb(182, 182, 182);
+  min-height: 2.5em;
+  cursor: pointer;
 }
-.boton{
-background-color: #199319;
-color: white;
-padding: 15px 25px;
-text-decoration: none;
-float: right;
-border-radius: 25px;
-border:#ffffff;
-cursor: pointer;
-font-family: 'Trebuchet MS';
+.boton {
+  background-color: #199319;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+  float: right;
+  border-radius: 25px;
+  border: #ffffff;
+  cursor: pointer;
+  font-family: "Trebuchet MS";
 }
 .boton:hover {
-background-color: #223094;
+  background-color: #223094;
 }
-.figureinicio{
-margin-left: 300px;
-margin-top:-180%;
+.figureinicio {
+  margin-left: 300px;
+  margin-top: -180%;
 }
