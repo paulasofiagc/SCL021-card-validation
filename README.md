@@ -3,7 +3,7 @@ Este es el ***primer hotel temático de una de las series más exitosas de la te
 * Link proyecto: [Ir al Sitio]()
 
 ## Índice
-* [1. Usuarixs y objetivos de este proyecto :sparkling_heart: ](#1-usuarixs-y-objetivos-de-este-proyecto-sparklingheart)
+* [1. Usuarixs y objetivos de este proyecto :sparkling_heart:](#1-usuarixs-y-objetivos-de-este-proyecto-sparklingheart)
 * [2. Solución a los problemas de los usuarios :star2:](#2-solución-a-los-problemas-de-los-usuarios-star2)
 * [3. Primer prototipo :pencil2:](#3-primer-prototipo-pencil2)
 * [4. Feedback recibido :hibiscus: ](#4-feedback-recibido-hibiscus)
