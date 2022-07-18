@@ -6,7 +6,7 @@ Este es el **_primer hotel temático de una de las series más exitosas de la te
 
 ## Índice
 
-- [1. Usuarixs y objetivos de este proyecto :sparkling_heart:](#1-usuarixs-y-objetivos-de-este-proyecto-sparklingheart)
+- [1. Usuarixs y objetivos de este proyecto ](#1-usuarixs-y-objetivos-de-este-proyecto)
 - [2. Solución a los problemas de los usuarios :star2:](#2-solución-a-los-problemas-de-los-usuarios-star2)
 - [3. Primer prototipo :pencil2:](#3-primer-prototipo-pencil2)
 - [4. Feedback recibido :hibiscus: ](#4-feedback-recibido-hibiscus)
@@ -14,7 +14,7 @@ Este es el **_primer hotel temático de una de las series más exitosas de la te
 
 ---
 
-## 1. Usuarixs y objetivos de este proyecto :sparkling_heart:
+## 1. Usuarixs y objetivos de este proyecto
 
 ¡Un hotel diseñado especialmente para entretener a la _familia_:family:, con especial importancia en los más pequeñitos del hogar! Esta ubicado en la ciudad de La Serena donde los huéspedes podrán disfrutar de un ambiente lleno de misterio con una exquisita mezcla de diversión y entretención para todo tipo de familias.
 
