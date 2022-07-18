@@ -18,7 +18,7 @@ Este es el **_primer hotel temático de una de las series más exitosas de la te
 
 ¡Un hotel diseñado especialmente para entretener a la _familia_:family:, con especial importancia en los más pequeñitos del hogar! Esta ubicado en la ciudad de La Serena donde los huéspedes podrán disfrutar de un ambiente lleno de misterio con una exquisita mezcla de diversión y entretención para todo tipo de familias.
 
-El objetivo objetivo principal es ofrecer el mejor servicio desde el primer momento, impresionando a cada usuario que nos visite desde nuestra página web temática, satisfaciendo las necesidades del mercado y superando las expectativas de los clientes con un hotel único y exclusivo.
+El objetivo  principal es ofrecer el mejor servicio desde el primer momento, impresionando a cada usuario que nos visite desde nuestra página web temática, satisfaciendo las necesidades del mercado y superando las expectativas de los clientes con un hotel único y exclusivo.
 
 ## 2. Solución a los problemas de los usuarixs :star2:
 
