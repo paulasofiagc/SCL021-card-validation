@@ -32,5 +32,7 @@ Esta página web da solución a un mercado con demanda especializada en donde lo
 
 ### 5. Prototipo Final
 ![](src/prototype/Prototipo1.png)
+##### Reservación
+![](src/prototype/Prototipo2.png)
 
  
