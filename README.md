@@ -8,9 +8,8 @@ Este es el ***primer hotel temático de una de las series más exitosas de la te
 * [3. Primer prototipo :pencil2:](#3-primer-prototipo-pencil2)
 * [4. Feedback recibido :hibiscus: ](#4-feedback-recibido-hibiscus)
 * [5. Prototipo Final ](#5-prototipo-final)
-* [6. Proyecto Final :exploding_head:](#6-proyecto-final-explodinghead)
-
 ***
+
 ## 1. Usuarixs y objetivos de este proyecto :sparkling_heart:
 ¡Un hotel diseñado especialmente para entretener a la *familia*:family:, con especial importancia en los más pequeñitos del hogar! Esta ubicado en la ciudad de La Serena donde los huéspedes podrán disfrutar de un ambiente lleno de misterio con una exquisita mezcla de diversión y entretención para todo tipo de familias. 
 
@@ -21,20 +20,23 @@ Esta página web da solución a un mercado con demanda especializada en donde lo
  
 ## 3. Primer prototipo :pencil2:	 
 ![](src/prototype/preprototipo1.png)
+
 ## 4. Feedback recibido :hibiscus:	
 * Agregar una página de inicio
   * Mejorar algunas líneas del CSS
 
 ## 5. Prototipo Final
 ![](src/prototype/Prototipo1.png)
+
 ## Reservación
 ![](src/prototype/Prototipo2.png)
 
-## 6. Proyecto Final :exploding_head:
+# Proyecto Final :exploding_head:
 ## Inicio de la página :star:		
 ![](src/prototype/InicioHGF.png)
 
 ## Reserva :star:	
 ![](src/prototype/Reserva1.png)
+
 ![](src/prototype/Reserva2.png)
 
