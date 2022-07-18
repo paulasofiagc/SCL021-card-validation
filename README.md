@@ -24,15 +24,20 @@ El objetivo objetivo principal es ofrecer el mejor servicio desde el primer mome
 Esta página web da solución a un mercado con demanda especializada en donde los clientes cada vez son más exigientes. De esta forma, se crea oportunidades entre la oferta de alojamientos turísticos. Nuestra página web permite validar la tarjeta de crédito del titular utilizando un método de pago más seguro para el cliente y garantizando el pago de sus reservaciones.
  
  ### 3. Primer prototipo  
-
-
-### 4. Feedback recibido
+![](src/prototype/preprototipo1.png)
+### 4. Feedback recibido :revolving_hearts:
 * Agregar una página de inicio
   * Mejorar algunas líneas del CSS
 
 ### 5. Prototipo Final
 ![](src/prototype/Prototipo1.png)
-##### Reservación
+## Reservación
 ![](src/prototype/Prototipo2.png)
 
- 
+ # Proyecto Final :exploding_head:
+ ## Inicio de la página :star:		
+ ![](src/prototype/InicioHGF.png)
+
+ ## Reserva :star:	
+ ![](src/prototype/Reserva1.png)
+ ![](src/prototype/Reserva2.png)
